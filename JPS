@@ -12,6 +12,7 @@ local v20="Karolka";local v21=game:GetService("ReplicatedStorage").Remotes.Submi
 local v20="10K";local v21=game:GetService("ReplicatedStorage").Remotes.SubmitSocialCode;v21:InvokeServer(v20);
 local v20="Puzonik";local v21=game:GetService("ReplicatedStorage").Remotes.SubmitSocialCode;v21:InvokeServer(v20);
 local v20="Węgorz08";local v21=game:GetService("ReplicatedStorage").Remotes.SubmitSocialCode;v21:InvokeServer(v20);
+local v20="Roksek";local v21=game:GetService("ReplicatedStorage").Remotes.SubmitSocialCode;v21:InvokeServer(v20);
 local v20="Pedro";local v21=game:GetService("ReplicatedStorage").Remotes.SubmitSocialCode;v21:InvokeServer(v20);
 local v20="Kifi";local v21=game:GetService("ReplicatedStorage").Remotes.SubmitSocialCode;v21:InvokeServer(v20);end});
 -----------------------------------------------------------clouds-----------------------------------------------------------------------
